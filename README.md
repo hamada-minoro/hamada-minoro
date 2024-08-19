@@ -1,8 +1,8 @@
 ### Olá, eu sou a Lucas Minoro Hamada!! 
 
 - 🛒 Atuo como Desenvolvedor Freelancer
-- 📚 Curso Sistemas de Informações na Universidade Estácio de Sá
-- 📌 Linguagens que mais utilizo: JavaScript/ C#/ C++ / PHP / CSS/ HTML
+- 📚 Curso Ciência da Computação na Universidade Cruzeiro do Sul
+- 📌 Linguagens que mais utilizo: JavaScript / C#/ C++ / PHP / CSS / HTML / Java
 - 😎 Conhecimentos complementares: Bancos de Dados (MySQL, Postgrees, DynamoDB) / Microcontroladores
 
 
