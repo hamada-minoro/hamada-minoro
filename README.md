@@ -1,7 +1,7 @@
 # Olá, eu sou o Minoro Hamada! 👋
 
 ## Sobre Mim
-Sou Desenvolvedor Full Stack apaixonado por criar soluções inovadoras que unem funcionalidade e design. Atuo na **CONVEM Fintech** e na **Regularótio Mais**, e estou em constante evolução na área, curso **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul e irei me formar no final desse ano de 2025.
+Sou Desenvolvedor Full Stack apaixonado por criar soluções que possam agregar a minha comunicade e a sociedade. Atuo na **CONVEM Fintech** e na **Regularótio Mais**, e estou em constante evolução na área, curso **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul e irei me formar no final desse ano de 2025.
 
 ---
 
