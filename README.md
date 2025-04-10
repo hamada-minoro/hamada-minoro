@@ -24,9 +24,9 @@
 </div>
 
 <br>
-
+<div align="center">
 ### Meios de Contato 📞:
-
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/minoro-hamada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:hamada.minoro.08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
