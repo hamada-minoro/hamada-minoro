@@ -8,7 +8,7 @@
 
 
 <br>
-<div style="display: flex; flex-direction: column">
+<div style="display: flex; flex-direction: column; text-align: center; justify-content: center;">
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamada-minoro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
