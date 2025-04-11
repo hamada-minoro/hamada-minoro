@@ -24,8 +24,8 @@ Sou Desenvolvedor Full Stack apaixonado por criar soluções que possam agregar 
 - **Frontend:** React, HTML, CSS, e mais.
 - **Backend:** Node.js com TypeScript, PHP, Laravel.
 - **Bancos de Dados:** MySQL, PostgreSQL, DynamoDB.
-- **Outros:** Desenvolvimento de microcontroladores e soluções IoT.
-- **Outros:** Conhecimento com ferramentas da AWS e LGPD/ISO-27001.
+- **Outros:** Desenvolvimento com microcontroladores e soluções IoT.
+- **Outros:** Conhecimento de ferramentas da AWS e LGPD/ISO-27001.
 
 ---
 
