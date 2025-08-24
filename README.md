@@ -32,7 +32,7 @@ Sou Desenvolvedor Full Stack apaixonado por criar soluções que possam agregar 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamada-minoro&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=hamada-minoro&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamada-minoro&layout=compact&theme=dracula" alt="Top Linguagens"/>
 </div>
 
